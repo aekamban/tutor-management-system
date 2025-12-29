@@ -1,0 +1,33 @@
+# MySQL Database Files
+*.sql~
+*.sql.bak
+
+# MySQL Workbench
+*.mwb.bak
+*.mwb.beforefix
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Backup Files
+backup/
+*.backup
+
+# Sensitive Information (if any credentials are accidentally added)
+config.ini
+credentials.json
+.env
+
+# Documentation Build Files
+docs/_build/
