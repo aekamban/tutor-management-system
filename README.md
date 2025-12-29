@@ -15,7 +15,7 @@ The system is modeled using nine normalized tables with fully synthetic, realist
 - Analytical SQL queries for operational and revenue metrics  
 
 ## Outcome / Insight
-Delivered an analytics-ready relational database that supports reliable reporting on revenue by subject category, tutor availability matching, and package utilization—demonstrating how strong data modeling underpins trustworthy analytics.
+Delivered an analytics-ready relational database that supports reliable reporting on revenue by subject category, tutor availability matching, and package utilization, demonstrating how strong data modeling underpins trustworthy analytics.
 
 ## Why This Matters
 Applied data science roles often sit close to business operations. This project demonstrates the ability to translate real-world operational requirements into scalable, decision-supporting data infrastructure.
@@ -23,9 +23,13 @@ Applied data science roles often sit close to business operations. This project 
 ## Repository Structure
 
 schema/ # Database schema and indexes
+
 data/ # Synthetic sample data
+
 queries/ # Analytical SQL queries
+
 diagrams/ # ER diagrams
+
 docs/ # Supporting documentation
 
 
